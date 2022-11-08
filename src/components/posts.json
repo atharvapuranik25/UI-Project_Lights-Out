@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "title": "Fantastic Beasts: The Secrets of Dumbledore",
+        "description": "Hey there folks... The new fantastic beasts, the last in the trilogy will be coming out this year! As the journey of Newt Scamander comes to an end, here's the trailer for the last entry in the series. And thank you for coming along with me on this journey through the wizarding world.",
+        "user": "David Yates",
+        "profile_img": "https://www.themoviedb.org/t/p/w235_and_h235_face/hAHOxR0NK4cZDumqNIpDoEdGVAh.jpg",
+        "img": "",
+        "vid": "https://www.youtube.com/embed/Y9dr2zw-TXQ",
+        "text": ""
+    },
+
+    {
+        "id": 2,
+        "title": "Interstellar",
+        "description": "Here's the trailer for my movie Interstellar. Had a lot of fun working with Matthew on this one. A stellar actor along with the supporting cast and all the crew members. Hope you enjoy it. Peace Out.",
+        "user": "Christopher Nolan",
+        "profile_img": "https://i.insider.com/5f0a67534dca6808ef640f43?width=700",
+        "img": "",
+        "vid": "https://www.youtube.com/embed/zSWdZVtXT7E",
+        "text": ""
+    },
+
+    {
+        "id": 3,
+        "title": "The Lightning Thief",
+        "description": "Hey Everyone!!! I am excited and eager to announce that the Percy Jackson Books (after a failed attempt to make them into movies) are being adapted into a web show by Disney. The cast will be annouced in a few days. Until then, go revise what happened in the first book... haha",
+        "user": "Rick Riordan",
+        "profile_img": "https://timesofindia.indiatimes.com/thumb/msid-78938699,width-1200,height-900,resizemode-4/.jpg",
+        "img": "",
+        "vid": "",
+        "text": "https://books-library.net/files/books-library.online-12292349Zn6A8.pdf"
+    },
+
+    {
+        "id": 4,
+        "title": "2001: A Space Odyssey",
+        "description": "After discovering a monolith on the lunar surface, the Discovery One and its revolutionary supercomputer set out to unravel its mysterious origin.",
+        "user": "Stanley Kubrick",
+        "profile_img": "https://i.guim.co.uk/img/media/dbc4567095cf14fd22a0427debbe422e2ed2f99c/0_234_2600_1560/master/2600.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=867988105a0cd8f2857f7a1810844a94",
+        "img": "",
+        "vid": "https://www.youtube.com/embed/oR_e9y-bka0",
+        "text": ""
+    },
+
+    {
+        "id": 5,
+        "title": "The Lost Symbol",
+        "description": "Hey all... how did you like the new show? Personally I felt they could've been more true to the source material, like in this scene...",
+        "user": "Dan Brown",
+        "profile_img": "https://economictimes.indiatimes.com/thumb/msid-88557102,width-1200,height-900,resizemode-4,imgsize-75900/blythe-brown-claimed-credit-for-inspiring-much-of-ban-browns-work-and-coming-up-with-the-premise-for-the-da-vinci-code-.jpg?from=mdr",
+        "img": "",
+        "vid": "",
+        "text": "https://danbrown.com/wp-content/themes/danbrown/assets/db_TLS_book_excerpts.pdf"
+    },
+
+    {
+        "id": 6,
+        "title": "The Da Vinci Code",
+        "description": "Symbologist Robert Langdon travels from Paris to London to unravel a bizarre murder. Accompanied by a cryptographer, he soon comes across a religious enigma protected by an age-old secret society.",
+        "user": "Ron Howard ",
+        "profile_img": "https://pbs.twimg.com/profile_images/1012088938440212480/sqKBvT7y_400x400.jpg",
+        "img": "",
+        "vid": "https://www.youtube.com/embed/5sU9MT8829k",
+        "text": ""
+    },
+
+    {
+        "id": 7,
+        "title": "The Revenant",
+        "description": "Hugh Glass, a legendary frontiersman, is severely injured in a bear attack and is abandoned by his hunting crew. He uses his skills to survive and take revenge on his companion who betrayed him.",
+        "user": "Emmanuel Lubezki",
+        "profile_img": "https://nettv4u.com/imagine/24-05-2017/emmanuel-lubezki.png",
+        "img": "",
+        "vid": "https://www.youtube.com/embed/_8P8MgsFNZQ",
+        "text": ""
+    }
+
+]
